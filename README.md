@@ -2,7 +2,7 @@
 
 [ChangeTextInImage](https://changetextinimage.app) replaces text inside an image and keeps the original lettering. Upload a picture, draw a box around the words, type the current and the new text, and press Change text. The first edit is free, with a watermark and no sign-up.
 
-ChangeTextInImage is operated by Summercloude Pte. Ltd., Singapore (UEN 202619506N).
+ChangeTextInImage is operated by SUMMERCLOUDE PTE. LTD., Singapore (UEN 202619506N).
 
 This repository is where you can report a problem or suggest a feature.
 
